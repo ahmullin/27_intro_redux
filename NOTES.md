@@ -1,3 +1,5 @@
+What do we know about Redux?
+
 + Supposed to be good
 + Uses pure functions
 + Lightweight
